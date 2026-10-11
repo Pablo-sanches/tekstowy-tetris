@@ -1,0 +1,1 @@
+Do uruchomienia gry w wersji surowej wystarczy mieć zainstalowanego Pythona wystarczy urhcomić plik "tetris.py". Jeśli chcesz uruchomić wersję .exe wystarczy że wejdziesz do folderu dist i uruchomisz aplikację Tetris.exe
